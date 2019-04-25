@@ -7,9 +7,6 @@ The City of Scottsdale publishes a [dataset](http://data.scottsdaleaz.gov/datase
 2.  Are specific City Councils more contentious than others? (more likely to vote against proposals)
 3.  Does the count of cases each year track with the development of Scottsdale over time?  I.E. can the future development of Scottsdale be predicted based on City Council activity?
 
-#### Results:
-1. 
-
 #### Other things to consider: 
 1. 
 
